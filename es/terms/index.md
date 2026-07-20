@@ -5,13 +5,13 @@ permalink: /es/terms/
 lang: es
 ---
 
-# Términos de Servicio de Jaksimsamil
+# Términos de Servicio de Solo 3 Días
 
 **Fecha de entrada en vigor:** 20 de julio de 2026
 
 ## Artículo 1. Objeto
 
-Estos términos establecen las condiciones de uso del servicio Jaksimsamil.
+Estos términos establecen las condiciones de uso del servicio Solo 3 Días.
 
 ## Artículo 2. Cuenta
 
