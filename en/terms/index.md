@@ -5,7 +5,7 @@ permalink: /en/terms/
 lang: en
 ---
 
-# Jaksimsamil Terms of Service
+# Just3days Terms of Service
 
 **Effective Date:** July 20, 2026
 
@@ -13,11 +13,11 @@ lang: en
 
 ## Article 1 (Purpose)
 
-These Terms of Service govern the rights, obligations, and responsibilities between the Service provider and users in connection with the schedule-management and habit-management services provided through Jaksimsamil (the “Service”).
+These Terms of Service govern the rights, obligations, and responsibilities between the Service provider and users in connection with the schedule-management and habit-management services provided through Just3days (the “Service”).
 
 ## Article 2 (Definitions)
 
-1. **Service** means the schedule-management, habit-management, notification, and related features provided through the Jaksimsamil mobile application.
+1. **Service** means the schedule-management, habit-management, notification, and related features provided through the Just3days mobile application.
 2. **Member** means a user who agrees to these Terms and uses the Service.
 3. **Account** means the user identification information created through Sign in with Apple.
 
@@ -131,7 +131,7 @@ These Terms take effect on **July 20, 2026**.
 
 ### Contact
 
-- **Service:** Jaksimsamil
+- **Service:** Just3days
 - **Email:** [demianjun1@gmail.com](mailto:demianjun1@gmail.com)
 - **Age Rating:** Suitable for all ages
 - **Paid Features:** Advertisements and ad removal through in-app purchase
