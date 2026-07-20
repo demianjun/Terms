@@ -5,13 +5,13 @@ permalink: /es/privacy-policy/
 lang: es
 ---
 
-# Política de Privacidad de Jaksimsamil (v1.0)
+# Política de Privacidad de Solo 3 Días (v1.0)
 
 **Fecha de entrada en vigor:** 20 de julio de 2026
 
 ## 1. Disposiciones generales
 
-Jaksimsamil protege la información personal de los usuarios de conformidad con la legislación aplicable.
+Solo 3 Días protege la información personal de los usuarios de conformidad con la legislación aplicable.
 
 ## 2. Información recopilada
 
