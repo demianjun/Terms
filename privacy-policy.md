@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: 개인정보처리방침
+permalink: /privacy-policy/
+---
+
 # 작심삼일 개인정보처리방침 (v1.0)
 
 **시행일:** 2026-07-20
