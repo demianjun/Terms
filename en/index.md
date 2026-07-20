@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Jaksimsamil Legal Documents
+title: Just3days Legal Documents
 permalink: /en/
 lang: en
 ---
 
-# Jaksimsamil Legal Documents
+# Just3days Legal Documents
 
 - [Privacy Policy]({{ site.baseurl }}/en/privacy-policy/)
 - [Terms of Service]({{ site.baseurl }}/en/terms/)
