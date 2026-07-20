@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Jaksimsamil Legal Documents
+title: Just3days Legal Documents
 permalink: /
 ---
 
-# Jaksimsamil Legal Documents
+# Just3days Legal Documents
 
 언어를 선택해 주세요.
 
