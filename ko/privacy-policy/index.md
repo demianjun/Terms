@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 개인정보처리방침
-permalink: /privacy-policy/
+permalink: /ko/privacy-policy/
+lang: ko
 ---
 
 # 작심삼일 개인정보처리방침 (v1.0)
