@@ -5,13 +5,13 @@ permalink: /zh-cn/privacy-policy/
 lang: zh-CN
 ---
 
-# Jaksimsamil 隐私政策（v1.0）
+# 就三天 隐私政策（v1.0）
 
 **生效日期：**2026年7月20日
 
 ## 1. 总则
 
-Jaksimsamil 将依据适用法律法规保护用户的个人信息。
+就三天 将依据适用法律法规保护用户的个人信息。
 
 ## 2. 收集的信息
 
