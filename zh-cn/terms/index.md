@@ -5,13 +5,13 @@ permalink: /zh-cn/terms/
 lang: zh-CN
 ---
 
-# Jaksimsamil 服务条款
+# 就三天 服务条款
 
 **生效日期：**2026年7月20日
 
 ## 第一条 目的
 
-本条款规定 Jaksimsamil 服务的使用条件。
+本条款规定 就三天 服务的使用条件。
 
 ## 第二条 账户
 
