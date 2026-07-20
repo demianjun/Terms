@@ -5,7 +5,7 @@ permalink: /en/privacy-policy/
 lang: en
 ---
 
-# Jaksimsamil Privacy Policy (v1.0)
+# Just3days Privacy Policy (v1.0)
 
 **Effective Date:** July 20, 2026
 
@@ -13,7 +13,7 @@ lang: en
 
 ## 1. General
 
-Jaksimsamil (the “Service”) complies with applicable laws and regulations, including the Personal Information Protection Act of the Republic of Korea, and is committed to protecting users’ personal information.
+Just3days (the “Service”) complies with applicable laws and regulations, including the Personal Information Protection Act of the Republic of Korea, and is committed to protecting users’ personal information.
 
 This Privacy Policy explains the categories of personal information processed in connection with the Service, the purposes of processing, retention periods, and users’ rights.
 
@@ -128,7 +128,7 @@ The Service implements the following measures to protect personal information:
 
 Questions, complaints, and requests to access or delete personal information may be submitted through the contact information below.
 
-- **Service:** Jaksimsamil
+- **Service:** Just3days
 - **Email:** [demianjun1@gmail.com](mailto:demianjun1@gmail.com)
 
 ---
