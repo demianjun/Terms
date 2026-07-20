@@ -1,6 +1,6 @@
 ---
 layout: default
-title:3日だけ 公式ドキュメント
+title: 3日だけ公式ドキュメント
 permalink: /ja/
 lang: ja
 ---
