@@ -7,7 +7,7 @@ lang: en
 
 # Just3days Privacy Policy (v1.0)
 
-**Effective Date:** July 20, 2026
+**Effective Date:** July 31, 2026
 
 ---
 
@@ -24,6 +24,7 @@ This Privacy Policy explains the categories of personal information processed in
 | Category | Information Collected | Purpose of Use | Retention Period |
 |---|---|---|---|
 | Sign in with Apple | Apple user identifier and email address, including a public email address or a Hide My Email relay address | User identification and sign-in | Until account deletion |
+| Google Sign-In | Google account identifier, email address, name, and profile image URL when provided | User identification and sign-in | Until account deletion |
 | Firebase Authentication | Firebase UID | User identification and authentication management | Until account deletion |
 | Firebase Firestore | Schedules, habits, settings, completion records, and ad-removal purchase status | Providing the Service and synchronizing data across devices | Until account deletion |
 | Device and app information | OS version, app version, and similar technical information | Error analysis, service stability, and quality improvement | Deleted without undue delay after the purpose is fulfilled |
@@ -48,9 +49,7 @@ The Service processes personal information for the following purposes:
 
 The Service may display advertisements through Google AdMob.
 
-On iOS, personalized advertising that links data collected from other companies’ apps or websites may be provided only after obtaining the user’s permission in accordance with Apple’s App Tracking Transparency (ATT) framework.
-
-Users may continue to use the core features of the Service even if they do not allow tracking. In that case, non-personalized advertisements may be displayed instead of personalized advertisements.
+Before requesting ads, the Service uses Google’s User Messaging Platform to obtain consent where required and provide privacy options. This version does not request App Tracking Transparency (ATT) permission, so IDFA is not used for cross-app tracking. Depending on consent and device settings, non-personalized or limited ads may be displayed.
 
 The ad-removal product is offered through Apple App Store in-app purchases. Apple processes payment methods and payment information directly. The Service does not directly collect or store payment-card numbers or other payment-method details.
 
@@ -64,7 +63,7 @@ The following external services are used to provide the Service:
 
 | Provider | Service Used | Purpose |
 |---|---|---|
-| Google LLC | Firebase Authentication and Cloud Firestore | User authentication, data storage, and synchronization |
+| Google LLC | Google Sign-In, Firebase Authentication, and Cloud Firestore | User authentication, data storage, and synchronization |
 | Google LLC | Google AdMob | Advertisement delivery and advertising performance measurement |
 | Apple Inc. | Sign in with Apple and App Store in-app purchases | Sign-in processing, payment processing, and purchase restoration |
 
@@ -76,7 +75,7 @@ During use of the Service, personal information may be processed on cloud server
 
 | Recipient | Destination | Information Transferred | Purpose | Timing and Method | Retention Period |
 |---|---|---|---|---|---|
-| Google LLC | United States and other countries where Google operates its services | Firebase UID, sign-in information, schedules, habits, settings, and completion records | User authentication, data storage, and synchronization | Transmitted through encrypted networks when the Service is used | Until account deletion or fulfillment of the processing purpose |
+| Google LLC | United States and other countries where Google operates its services | Google account identifier and profile information, Firebase UID, schedules, habits, settings, and completion records | User authentication, data storage, and synchronization | Transmitted through encrypted networks when the Service is used | Until account deletion or fulfillment of the processing purpose |
 | Google LLC | United States and other countries where Google operates its services | Device and advertising identifiers and advertisement usage information | Advertisement delivery and performance measurement | Transmitted through encrypted networks when an advertisement is requested | In accordance with Google’s policies and applicable law |
 | Apple Inc. | United States and other countries where Apple operates its services | Apple user identifier and purchase or transaction identifiers | Sign-in, payment processing, and purchase restoration | Transmitted through encrypted networks when sign-in or payment features are used | In accordance with Apple’s policies and applicable law |
 
@@ -143,4 +142,4 @@ Material changes will be announced before they take effect through an in-app not
 
 ## Supplementary Provision
 
-This Privacy Policy takes effect on **July 20, 2026**.
+This Privacy Policy takes effect on **July 31, 2026**.

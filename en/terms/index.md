@@ -7,7 +7,7 @@ lang: en
 
 # Just3days Terms of Service
 
-**Effective Date:** July 20, 2026
+**Effective Date:** July 31, 2026
 
 ---
 
@@ -19,7 +19,7 @@ These Terms of Service govern the rights, obligations, and responsibilities betw
 
 1. **Service** means the schedule-management, habit-management, notification, and related features provided through the Just3days mobile application.
 2. **Member** means a user who agrees to these Terms and uses the Service.
-3. **Account** means the user identification information created through Sign in with Apple.
+3. **Account** means the user identification information created through Sign in with Apple or Google Sign-In.
 
 ## Article 3 (Effectiveness and Amendment of the Terms)
 
@@ -29,7 +29,7 @@ These Terms of Service govern the rights, obligations, and responsibilities betw
 
 ## Article 4 (Registration)
 
-1. Registration is completed through Sign in with Apple.
+1. Registration is completed through Sign in with Apple or Google Sign-In.
 2. Users must provide accurate information and may not use another person’s account.
 3. Members may delete their accounts at any time.
 
@@ -125,7 +125,7 @@ Any dispute arising in connection with the Service will be submitted to a court 
 
 ## Supplementary Provision
 
-These Terms take effect on **July 20, 2026**.
+These Terms take effect on **July 31, 2026**.
 
 ---
 

@@ -7,7 +7,7 @@ lang: es
 
 # Términos de Servicio de Solo 3 Días
 
-**Fecha de entrada en vigor:** 20 de julio de 2026
+**Fecha de entrada en vigor:** 31 de julio de 2026
 
 ## Artículo 1. Objeto
 
@@ -15,7 +15,7 @@ Estos términos establecen las condiciones de uso del servicio Solo 3 Días.
 
 ## Artículo 2. Cuenta
 
-El usuario puede acceder mediante Iniciar sesión con Apple.
+El usuario puede acceder mediante Iniciar sesión con Apple o Google.
 
 ## Artículo 3. Servicios
 

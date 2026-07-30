@@ -7,7 +7,7 @@ lang: zh-CN
 
 # 就三天 隐私政策（v1.0）
 
-**生效日期：**2026年7月20日
+**生效日期：**2026年7月31日
 
 ## 1. 总则
 
@@ -18,6 +18,7 @@ lang: zh-CN
 | 类别 | 信息 | 用途 | 保存期限 |
 |---|---|---|---|
 | Apple 登录 | Apple 用户标识、电子邮件 | 登录认证 | 注销账户前 |
+| Google 登录 | Google 账号标识、电子邮件、姓名及在提供时的头像URL | 登录认证 | 注销账户前 |
 | Firebase Authentication | Firebase UID | 用户认证 | 注销账户前 |
 | Firestore | 日程、习惯、设置、记录 | 提供服务 | 注销账户前 |
 | 设备信息 | 系统版本、应用版本 | 服务优化 | 达成目的后删除 |
@@ -32,13 +33,13 @@ lang: zh-CN
 
 ## 4. 广告
 
-本应用使用 Google AdMob。iOS 平台仅在获得 ATT 授权后提供个性化广告。
+本应用使用 Google AdMob 和 User Messaging Platform，并在适用地区获取同意。当前版本不请求 ATT 权限，因此不使用 IDFA 进行跨应用跟踪。根据同意结果和设备设置，可能展示非个性化或受限广告。
 
 ## 5. 第三方服务
 
 | 提供方 | 用途 |
 |---|---|
-| Google LLC | Firebase、AdMob |
+| Google LLC | Google 登录、Firebase、AdMob |
 | Apple Inc. | Apple 登录、应用内购买 |
 
 ## 6. 跨境传输

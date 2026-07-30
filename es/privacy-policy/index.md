@@ -7,7 +7,7 @@ lang: es
 
 # Política de Privacidad de Solo 3 Días (v1.0)
 
-**Fecha de entrada en vigor:** 20 de julio de 2026
+**Fecha de entrada en vigor:** 31 de julio de 2026
 
 ## 1. Disposiciones generales
 
@@ -18,6 +18,7 @@ Solo 3 Días protege la información personal de los usuarios de conformidad con
 | Categoría | Información | Finalidad | Conservación |
 |---|---|---|---|
 | Iniciar sesión con Apple | Identificador de Apple, correo electrónico | Autenticación | Hasta la eliminación de la cuenta |
+| Iniciar sesión con Google | Identificador de Google, correo electrónico, nombre y URL de imagen de perfil cuando se proporcionen | Autenticación | Hasta la eliminación de la cuenta |
 | Firebase Authentication | UID de Firebase | Autenticación | Hasta la eliminación de la cuenta |
 | Firestore | Hábitos, horarios, configuraciones y registros | Prestación del servicio | Hasta la eliminación de la cuenta |
 | Información del dispositivo | SO y versión de la app | Mejora del servicio | Hasta cumplir la finalidad |
@@ -32,13 +33,13 @@ Solo 3 Días protege la información personal de los usuarios de conformidad con
 
 ## 4. Publicidad
 
-La aplicación utiliza Google AdMob. En iOS, los anuncios personalizados solo se muestran con el consentimiento del usuario mediante ATT.
+La aplicación utiliza Google AdMob y User Messaging Platform para obtener el consentimiento cuando sea necesario. Esta versión no solicita permiso de ATT, por lo que no usa IDFA para el seguimiento entre aplicaciones. Según el consentimiento y los ajustes del dispositivo, pueden mostrarse anuncios no personalizados o limitados.
 
 ## 5. Proveedores
 
 | Proveedor | Finalidad |
 |---|---|
-| Google LLC | Firebase y AdMob |
+| Google LLC | Inicio de sesión con Google, Firebase y AdMob |
 | Apple Inc. | Inicio de sesión con Apple y compras integradas |
 
 ## 6. Transferencia internacional
