@@ -5,133 +5,70 @@ permalink: /en/terms/
 lang: en
 ---
 
-# Just3days Terms of Service
+# Just 3 Days Terms of Service
 
-**Effective Date:** July 31, 2026
+**Effective date:** July 31, 2026
+**Last updated:** September 13, 2026
 
----
+## 1. Scope
 
-## Article 1 (Purpose)
+These Terms govern use of Just 3 Days (the "Service"), provided by DreamAppLab (the "Operator"). By using the Service, you agree to these Terms and the [Privacy Policy]({{ site.baseurl }}/en/privacy-policy/).
 
-These Terms of Service govern the rights, obligations, and responsibilities between the Service provider and users in connection with the schedule-management and habit-management services provided through Just3days (the “Service”).
+## 2. Service
 
-## Article 2 (Definitions)
+The Service provides habit-goal creation and management, daily completion records, progress and statistics, goal and restart reminders, a local PIN or Face ID lock, optional Apple/Google sign-in and multi-device synchronization, Google AdMob ads, and an in-app purchase to remove ads. Features may vary by app version, device, OS, country, permission, or account status.
 
-1. **Service** means the schedule-management, habit-management, notification, and related features provided through the Just3days mobile application.
-2. **Member** means a user who agrees to these Terms and uses the Service.
-3. **Account** means the user identification information created through Sign in with Apple or Google Sign-In.
+## 3. Accounts
 
-## Article 3 (Effectiveness and Amendment of the Terms)
+Core features can be used locally without an account. Connecting an Apple or Google account is required for multi-device synchronization. You are responsible for protecting your device and credentials. The relevant provider's terms also apply to external sign-in.
 
-1. These Terms become effective when posted within the Service or otherwise made available to users.
-2. The Service provider may amend these Terms when necessary, provided that such amendments do not violate applicable law.
-3. Amendments will be announced before their effective date. Where permitted by applicable law, a user who does not express an objection before the effective date may be deemed to have agreed to the amended Terms.
+## 4. Data and synchronization
 
-## Article 4 (Registration)
+Goals and records are stored primarily on the device. After an account is connected, eligible goals, records, restart information, and ad-removal status are stored in Cloud Firestore and synchronized across devices using the same account. Synchronization is not a guaranteed backup and may be delayed, conflict, or fail because of network, device, OS, or provider conditions. User-entered goal text is included in synchronized data.
 
-1. Registration is completed through Sign in with Apple or Google Sign-In.
-2. Users must provide accurate information and may not use another person’s account.
-3. Members may delete their accounts at any time.
+## 5. Notifications and local lock
 
-## Article 5 (Provision of the Service)
+Notification delivery depends on iOS permissions, Focus modes, battery, device settings, and operating-system behavior, so exact-time delivery is not guaranteed. PIN and Face ID are supplemental local protections and do not guarantee complete security.
 
-The Service may provide the following features:
+## 6. Advertising and in-app purchase
 
-- Creating and managing schedules
-- Managing habits
-- Managing recurring schedules
-- Receiving notifications
-- Reviewing completion records
-- Viewing statistics and history
-- Other features provided by the Service provider
+The Service may display Google AdMob ads. Ad removal is a non-consumable in-app purchase offered through the Apple App Store.
 
-The content and functionality of the Service may change in accordance with operational policies.
+- Price, tax, and payment terms are those shown at checkout.
+- Apple processes payment; we do not collect payment-card details.
+- A purchase can be restored with the same Apple ID.
+- Cancellation and refunds follow Apple's process and applicable law.
+- Server-side ad-removal status is synchronization data; the entitlement verified by StoreKit is controlling.
 
-## Article 6 (Availability of the Service)
+## 7. Prohibited conduct
 
-The Service is generally intended to be available year-round, 24 hours a day.
+You may not violate law or public order, infringe rights, impersonate another person, access the Service without authorization, disrupt it, bypass security, or analyze, modify, or redistribute it beyond what applicable law permits.
 
-However, access to the Service may be limited in the following circumstances:
+## 8. Intellectual property
 
-1. Server inspection or maintenance
-2. System failure
-3. Natural disasters or other force-majeure events
-4. Other circumstances reasonably necessary for operation of the Service
+The Service and its components belong to the Operator or their lawful owners. You retain rights in goal text and other content you enter and permit us to process it only as needed to provide and synchronize the Service.
 
-## Article 7 (Member Obligations)
+## 9. Changes and interruption
 
-Members must not engage in any of the following conduct:
+We may change or interrupt all or part of the Service for maintenance, security, legal, OS/provider changes, failure, or another reasonable operational cause. We will give advance notice of material changes where practicable.
 
-1. Using another person’s account
-2. Interfering with the normal operation of the Service
-3. Modifying the app or using it through unauthorized or abnormal methods
-4. Engaging in conduct that violates applicable law or public order
-5. Engaging in any other conduct that causes material harm to the operation of the Service
+## 10. Responsibility
 
-## Article 8 (Advertising)
+The Service is a habit-management aid, not medical, psychological, legal, or other professional advice, and does not guarantee achievement of a goal. We are not responsible for loss caused by matters not attributable to us. For loss caused by our ordinary negligence, liability is limited to ordinary and direct loss to the extent permitted by law. Nothing limits liability for fraud, gross negligence, or liability that mandatory consumer law does not allow us to exclude.
 
-The Service may display advertisements on certain screens.
+## 11. Sign-out and account deletion
 
-Members may purchase an ad-removal product to use the Service without advertisements.
+Signing out ends the session on the device but does not delete server data. Completing account deletion in the app deletes the Firebase Authentication account and associated Cloud Firestore data. On-device goals and records remain until separately deleted, and Apple controls App Store purchase records. Deleted accounts and server data may not be recoverable.
 
-## Article 9 (Paid Services)
+## 12. Changes to these Terms
 
-1. The Service may offer ad-removal functionality as a paid product.
-2. Payments are processed through the Apple App Store payment system.
-3. Refunds are governed by Apple’s payment and refund policies.
-4. The availability and details of the ad-removal functionality may change in accordance with Service policies.
+We may amend these Terms in accordance with law after considering the need for the change and its effect on users. We will announce the changes and effective date before they take effect through the app, this page, or another appropriate method.
 
-## Article 10 (Account Deletion)
+## 13. Governing law and disputes
 
-Members may request account deletion at any time through the relevant feature in the app.
+These Terms are governed by the laws of the Republic of Korea. This does not limit rights under mandatory consumer law in your place of habitual residence. Disputes will be resolved by a court with jurisdiction under applicable procedural law.
 
-Once account deletion is completed, member information and data stored for use of the Service will be deleted without undue delay.
+## 14. Contact
 
-Information required to be retained under applicable law may be kept for the period prescribed by law.
-
-## Article 11 (Intellectual Property Rights)
-
-All rights in the designs, user interface, icons, images, logos, software, and other copyrighted materials included in the Service belong to the Service provider or the applicable rights holder.
-
-Members may not reproduce, distribute, modify, or commercially use such materials without prior authorization from the rights holder.
-
-## Article 12 (Privacy)
-
-The Service protects members’ personal information in accordance with applicable law. Details regarding the collection and use of personal information are governed by the separate [Privacy Policy]({{ site.baseurl }}/en/privacy-policy/).
-
-## Article 13 (Disclaimer)
-
-To the extent permitted by applicable law, the Service provider is not responsible for losses arising from:
-
-1. Service interruptions caused by natural disasters or other force-majeure events
-2. Causes attributable to the member
-3. Problems with the member’s device or communications environment
-4. Inaccurate information entered by the member
-5. Use of free portions of the Service, except where liability cannot be excluded under applicable law
-
-## Article 14 (Modification or Discontinuation of the Service)
-
-The Service provider may modify or discontinue all or part of the Service when reasonably necessary for operational reasons.
-
-Material changes will be announced through an in-app notice or another appropriate method.
-
-## Article 15 (Governing Law and Jurisdiction)
-
-These Terms are governed by and construed in accordance with the laws of the Republic of Korea.
-
-Any dispute arising in connection with the Service will be submitted to a court of competent jurisdiction in accordance with applicable procedural law.
-
----
-
-## Supplementary Provision
-
-These Terms take effect on **July 31, 2026**.
-
----
-
-### Contact
-
-- **Service:** Just3days
+- **Operator:** DreamAppLab
 - **Email:** [demianjun1@gmail.com](mailto:demianjun1@gmail.com)
-- **Age Rating:** Suitable for all ages
-- **Paid Features:** Advertisements and ad removal through in-app purchase

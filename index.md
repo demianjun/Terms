@@ -1,3 +1,9 @@
+---
+layout: default
+title: Just 3 Days
+permalink: /
+---
+
 # Just 3 Days
 
 > **일단 3일만, 달라지는 매일.**
@@ -30,7 +36,7 @@
 완료하거나 기간이 종료된 목표를 삭제하지 않고 다시 확인할 수 있습니다.
 
 ### 다시 시작하기
-완료한 목표를 다음 날부터 새로운 목표로 다시 시작할 수 있습니다.
+마지막 완료 후 7일 동안 실천이 없으면 재시작 알림과 홈 카드를 통해 기존 기록을 보존한 채 오늘부터 새로운 3일 목표를 시작할 수 있습니다.
 
 ---
 
@@ -79,7 +85,7 @@ Apple 또는 Google 계정으로 로그인할 수 있습니다.
 - 로그아웃
 - 계정 삭제
 
-계정 삭제 시 연결된 서버 데이터는 삭제되며, 기기에 저장된 목표와 App Store 구매 내역은 유지될 수 있습니다.
+계정 삭제 시 연결된 서버 데이터는 삭제되며, 기기에 저장된 목표와 App Store 구매 내역은 유지됩니다.
 
 ---
 
@@ -107,7 +113,7 @@ Apple 또는 Google 계정으로 로그인할 수 있습니다.
 
 앱 이용 중 문제가 발생하거나 문의 사항이 있는 경우 아래 이메일로 연락해 주세요.
 
-**DreamAppLab**  
+**DreamAppLab**
 **Email:** demianjun1@gmail.com
 
 ---
@@ -123,14 +129,9 @@ Apple 또는 Google 계정으로 로그인할 수 있습니다.
 
 © 2026–Present DreamAppLab. All rights reserved.
 
-
----
-layout: default
-title: Just3days Legal Documents
-permalink: /
 ---
 
-# Just3days Legal Documents
+## 언어별 공식 문서
 
 언어를 선택해 주세요.
 

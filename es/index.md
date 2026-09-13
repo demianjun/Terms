@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Documentación oficial de Solo 3 Días
+title: Documentos oficiales de Just 3 Days
 permalink: /es/
 lang: es
 ---
 
-# Documentación oficial de Solo 3 Días
+# Documentos oficiales de Just 3 Days
 
-- [Política de Privacidad]({{ site.baseurl }}/es/privacy-policy/)
-- [Términos de Servicio]({{ site.baseurl }}/es/terms/)
+- [Política de privacidad]({{ site.baseurl }}/es/privacy-policy/)
+- [Términos de servicio]({{ site.baseurl }}/es/terms/)
+
+## Contacto
+
+- **Operador:** DreamAppLab
+- **Correo:** [demianjun1@gmail.com](mailto:demianjun1@gmail.com)
